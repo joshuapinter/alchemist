@@ -1,5 +1,7 @@
-require 'alchemist/unit'
-require 'alchemist/definition'
+require File.expand_path('../alchemist/unit', __FILE__)
+require File.expand_path('../alchemist/definition', __FILE__)
+# require 'alchemist/unit'
+# require 'alchemist/definition'
 
 module Alchemist
 
