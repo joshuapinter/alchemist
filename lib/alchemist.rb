@@ -281,7 +281,7 @@ module Alchemist
       :litre => 1.0, :liter => 1.0, :litres => 1.0, :liters => 1.0, :l => 1.0, :L => 1.0,
       :barrel => 1.589873e+2, :barrels => 1.589873e+2,
       :bushel => 3.523907e+1, :bushels => 3.523907e+1,
-      :cubic_meter => 1000.0, :cubic_meters => 1000.0,
+      :cubic_meter => 1000.0, :cubic_meters => 1000.0, :m3 => 1000.0,
       :cup => 2.365882e-1, :cups => 2.365882e-1,
       :imperial_fluid_ounce => 0.0284130742, :imperial_fluid_ounces => 0.0284130742,
       :ounce => 0.0295735296, :ounces => 0.0295735296, :fluid_ounce => 0.0295735296, :fluid_ounces => 0.0295735296,
