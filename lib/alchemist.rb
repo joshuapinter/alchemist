@@ -193,7 +193,8 @@ module Alchemist
       :troy_pound => 373.2417, :apothecary_pound => 373.2417, :troy_pounds => 373.2417, :apothecary_pounds => 373.2417,
       :slug => 14593.9029, :slugs => 14593.9029,
       :assay_ton => 29.1667, :assay_tons => 29.1667, :AT => 29.1667,
-      :metric_ton => 1000000, :metric_tons => 1000000,
+      :metric_ton => 1000000, :metric_tons => 1000000, 
+      :metric_tonne => 1000000, :metric_tonnes => 1000000,
       :ton => 907184.74, :tons => 907184.74, :short_tons => 907184.74,
       #unusual measurements
       :elephant => 5443108.44, :elephants => 5443108.44
