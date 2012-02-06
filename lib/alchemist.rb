@@ -270,7 +270,7 @@ module Alchemist
       :day => 86400.0, :days => 86400.0,
       :sidereal_day => 8.616409e+4, :sidereal_days => 8.616409e+4,
       :shake => 1.0e-8, :shakes => 1.0e-8,
-      :year => 3.1536e+7, :years => 3.1536e+7,
+      :year => 3.1536e+7, :years => 3.1536e+7, :alchemist_year => 3.1536e+7,
       :sidereal_year => 3.155815e+7, :sidereal_years => 3.155815e+7,
       :tropical_year => 3.155693e+7, :tropical_years => 3.155693e+7,
       #unusual measurements
