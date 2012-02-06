@@ -262,7 +262,7 @@ module Alchemist
       :rankine => 1.8, :rankines => 1.8
     }, 
     :time => {
-      :second => 1.0, :seconds => 1.0, :s => 1.0,
+      :second => 1.0, :seconds => 1.0, :s => 1.0, :alchemist_second => 1.0,
       :minute => 60.0, :minutes => 60.0, :min => 60.0,
       :sidereal_minute => 5.983617, :sidereal_minutes => 5.983617,
       :hour => 3600.0, :hours => 3600.0, :hr => 3600.0, :h => 3600.0,
