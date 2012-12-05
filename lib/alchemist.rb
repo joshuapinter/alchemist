@@ -200,10 +200,6 @@ module Alchemist
       #unusual measurements
       :elephant => 5443108.44, :elephants => 5443108.44
     },
-    :rate => {
-      :cubic_feet_per_second => 1.0, :cfs => 1,
-      :cubic_feet_per_minute => 60.0, :cfm => 60.0
-    },
     :power => {
       :watt => 1.0, :watts => 1.0, :W => 1.0,
       :british_thermal_unit_per_hour => 2.928751e-1, :british_thermal_units_per_hour => 2.928751e-1,
