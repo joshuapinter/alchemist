@@ -271,7 +271,7 @@ module Alchemist
       :sidereal_minute => 5.983617, :sidereal_minutes => 5.983617,
       :hour => 3600.0, :hours => 3600.0, :hr => 3600.0, :h => 3600.0,
       :sidereal_hour => 3.590170e+3, :sidereal_hours => 3.590170e+3,
-      :day => 86400.0, :days => 86400.0,
+      :day => 86400.0, :days => 86400.0, :alchemist_day => 86400.0
       :sidereal_day => 8.616409e+4, :sidereal_days => 8.616409e+4,
       :shake => 1.0e-8, :shakes => 1.0e-8,
       :year => 3.1536e+7, :years => 3.1536e+7, :alchemist_year => 3.1536e+7,
